@@ -23,7 +23,7 @@ public class HelloApplication extends Application {
 
         Image icon = new Image("sasukeitachi.jpg");
         stage.getIcons().add(icon);
-        stage.setTitle("Hi");
+        stage.setTitle("CircleMovement");
         stage.setScene(scene);
         stage.show();
 
